@@ -1,0 +1,10 @@
+numpy<2
+matplotlib
+pandas
+torch
+torch_geometric
+scikit-learn
+networkx
+omegaconf
+lightgbm
+xgboost
